@@ -1,0 +1,10 @@
+.search{
+    font-family:"Raleway", "Helvetica",sans-serif;
+    width: 95%;
+    flex:1;
+    padding:20px;
+    border:none;
+    margin: auto;
+    border-bottom: 1px solid var(--color-third);
+  }
+  

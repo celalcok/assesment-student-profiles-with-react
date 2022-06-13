@@ -1,0 +1,25 @@
+button{
+    width:30px;
+    height: 30px;
+    position:relative;
+    background-color: transparent;
+    border:none;
+    margin-right: 30px;
+}
+.stick{
+    background-color: gray;
+    position: absolute;
+  }
+  .vertical{
+    width: 5px;
+    height: 20px;
+    left: calc(50% - 2.5px);
+    top: calc(50% - 10px);
+  }
+  
+  .horizontal{
+    width: 20px;
+    height: 5px;
+    top: calc(50% - 2.5px);
+    left: calc(50% - 10px);
+  }
